@@ -1,0 +1,107 @@
+﻿@model IEnumerable<e_Book.Models.Borrow>
+
+@{
+    ViewBag.Title = "ספרייה אישית";
+}
+
+<h2>ספרייה אישית</h2>
+
+<!-- הודעות שגיאה או הצלחה -->
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>שם הספר</th>
+            <th>קישור להורדה</th>
+            <th>תאריך רכישה/השאלה</th>
+            <th>סוג עסקה</th>
+            <th>זמן שנותר להחזרה</th>
+            <th>פעולות</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var borrow in Model)
+        {
+            var daysLeft = borrow.DueDate.HasValue ? (borrow.DueDate.Value - DateTime.Now).Days : 0;
+            <tr>
+                <td>@borrow.Book.Title</td>
+                <td>
+                    @if (borrow.TransactionType == "buy")
+                    {
+                        <a href="@Url.Action("Download", "Books", new { id = borrow.BookId })" class="btn btn-primary">הורד ספר</a>
+                    }
+                    else
+                    {
+                        <span>לא זמין להורדה</span>
+                    }
+                </td>
+                <td>@borrow.BorrowDate.ToShortDateString()</td>
+                <td>@(borrow.TransactionType == "buy" ? "נקנה" : "הושאל")</td>
+                <td>
+                    @if (borrow.TransactionType == "borrow" && borrow.DueDate.HasValue)
+                    {
+                        if (daysLeft > 0)
+                        {
+                            <span>@daysLeft ימים</span>
+                        }
+                        else
+                        {
+                            <span class="text-danger">פג תוקף</span>
+                        }
+                    }
+                </td>
+                <td>
+                    @if (borrow.TransactionType == "borrow")
+                    {
+                        <!-- כפתור החזרת ספר -->
+                        <form action="@Url.Action("ReturnBook", "Borrows")" method="post" style="display:inline-block;">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="borrowId" value="@borrow.BorrowId" />
+                            <button type="submit" class="btn btn-warning">החזר ספר</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <!-- כפתור מחיקת ספר שנקנה -->
+                        <button class="btn btn-danger" onclick="confirmDelete(@borrow.BorrowId)">מחק ספר</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function confirmDelete(borrowId) {
+        if (confirm('האם אתה בטוח שברצונך למחוק את הספר?')) {
+            fetch('@Url.Action("DeleteBook", "Borrows")', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ borrowId: borrowId })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    alert(data.message);
+                    location.reload();
+                } else {
+                    alert(data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('שגיאה בתקשורת עם השרת.');
+            });
+        }
+    }
+</script>

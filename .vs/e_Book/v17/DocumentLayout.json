@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIR\\Desktop\\libraryservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\migrations\\202412102037333_addcartitemstable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412102037333_addcartitemstable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\migrations\\202412102034441_addcartitemstable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412102034441_addcartitemstable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\migrations\\202412102032554_addcartitemstable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412102032554_addcartitemstable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\migrations\\202412102031409_addcartitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412102031409_addcartitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\migrations\\202412102004112_addispurchasefeedbacktofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412102004112_addispurchasefeedbacktofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\controllers\\borrowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\controllers\\borrowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\migrations\\202412101955577_adddownloadurltopurchasesandborrows1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412101955577_adddownloadurltopurchasesandborrows1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\migrations\\202412101953145_adddownloadurltopurchasesandborrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412101953145_adddownloadurltopurchasesandborrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\views\\borrows\\userlibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\borrows\\userlibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\views\\account\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\account\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|c:\\users\\shir\\desktop\\libraryservice\\e_book\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\migrations\\202412101808127_addimageurltobook1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412101808127_addimageurltobook1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\migrations\\202412101802464_addimageurltobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412101802464_addimageurltobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\migrations\\202412101758592_addsynopsisfieldtobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\migrations\\202412101758592_addsynopsisfieldtobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\models\\waitinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\waitinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|C:\\Users\\SHIR\\Desktop\\libraryservice\\e_book\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A93A534-BCEE-4FD5-AC2D-E9AE60BF330D}|e_Book\\e_Book.csproj|solutionrelative:e_book\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\CartItems.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\CartItems.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\CartItems.cs",
+              "RelativeToolTip": "e_Book\\Models\\CartItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:29:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\LibraryDbContext.cs",
+              "RelativeToolTip": "e_Book\\Models\\LibraryDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:45:09.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202412102037333_AddCartItemsTable3.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102037333_AddCartItemsTable3.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412102037333_AddCartItemsTable3.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102037333_AddCartItemsTable3.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412102037333_AddCartItemsTable3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:37:38.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202412102034441_AddCartItemsTable2.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102034441_AddCartItemsTable2.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412102034441_AddCartItemsTable2.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102034441_AddCartItemsTable2.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412102034441_AddCartItemsTable2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:34:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202412102032554_AddCartItemsTable1.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102032554_AddCartItemsTable1.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412102032554_AddCartItemsTable1.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102032554_AddCartItemsTable1.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412102032554_AddCartItemsTable1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:32:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202412102031409_AddCartItemsTable.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102031409_AddCartItemsTable.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412102031409_AddCartItemsTable.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102031409_AddCartItemsTable.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412102031409_AddCartItemsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:31:46.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "e_Book\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "e_Book\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:11:14.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Feedback.cs",
+              "RelativeToolTip": "e_Book\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:18:55.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\Borrow.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Borrow.cs",
+              "RelativeToolTip": "e_Book\\Models\\Borrow.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:18:56.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Purchase.cs",
+              "RelativeToolTip": "e_Book\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:45:07.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\Book.cs",
+              "RelativeToolTip": "e_Book\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:08:23.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAuwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:00:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202412102004112_AddIsPurchaseFeedbackToFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102004112_AddIsPurchaseFeedbackToFeedback.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412102004112_AddIsPurchaseFeedbackToFeedback.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412102004112_AddIsPurchaseFeedbackToFeedback.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412102004112_AddIsPurchaseFeedbackToFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:04:16.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "e_Book\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "e_Book\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:56:12.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowsController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\BorrowsController.cs",
+              "RelativeDocumentMoniker": "e_Book\\Controllers\\BorrowsController.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\BorrowsController.cs",
+              "RelativeToolTip": "e_Book\\Controllers\\BorrowsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:57:18.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "202412101955577_AddDownloadUrlToPurchasesAndBorrows1.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101955577_AddDownloadUrlToPurchasesAndBorrows1.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412101955577_AddDownloadUrlToPurchasesAndBorrows1.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101955577_AddDownloadUrlToPurchasesAndBorrows1.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412101955577_AddDownloadUrlToPurchasesAndBorrows1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:56:01.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202412101953145_AddDownloadUrlToPurchasesAndBorrows.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101953145_AddDownloadUrlToPurchasesAndBorrows.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412101953145_AddDownloadUrlToPurchasesAndBorrows.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101953145_AddDownloadUrlToPurchasesAndBorrows.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412101953145_AddDownloadUrlToPurchasesAndBorrows.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:53:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLibrary.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Borrows\\UserLibrary.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Borrows\\UserLibrary.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Borrows\\UserLibrary.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Borrows\\UserLibrary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:17:05.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T18:45:11.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T17:38:13.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "e_Book\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "e_Book\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:02:18.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Account\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Account\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Account\\AdminDashboard.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Account\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:08:51.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:09:03.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:08:53.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "e_Book\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "e_Book\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:02:22.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "202412101808127_AddImageUrlToBook1.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101808127_AddImageUrlToBook1.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412101808127_AddImageUrlToBook1.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101808127_AddImageUrlToBook1.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412101808127_AddImageUrlToBook1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:08:18.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "e_Book\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "e_Book\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:10:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "202412101802464_AddImageUrlToBook.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101802464_AddImageUrlToBook.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412101802464_AddImageUrlToBook.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101802464_AddImageUrlToBook.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412101802464_AddImageUrlToBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:02:52.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswE4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T17:51:20.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\packages.config",
+              "RelativeDocumentMoniker": "e_Book\\packages.config",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\packages.config",
+              "RelativeToolTip": "e_Book\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T11:09:38.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAgwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:00:19.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "202412101758592_AddSynopsisFieldToBook.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101758592_AddSynopsisFieldToBook.cs",
+              "RelativeDocumentMoniker": "e_Book\\Migrations\\202412101758592_AddSynopsisFieldToBook.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Migrations\\202412101758592_AddSynopsisFieldToBook.cs",
+              "RelativeToolTip": "e_Book\\Migrations\\202412101758592_AddSynopsisFieldToBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:59:05.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Payments\\Index.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Payments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Payments\\Index.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Payments\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T17:37:52.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\User.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\User.cs",
+              "RelativeToolTip": "e_Book\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:10:04.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Web.config",
+              "RelativeDocumentMoniker": "e_Book\\Web.config",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Web.config",
+              "RelativeToolTip": "e_Book\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T11:09:57.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WaitingList.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\WaitingList.cs",
+              "RelativeDocumentMoniker": "e_Book\\Models\\WaitingList.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Models\\WaitingList.cs",
+              "RelativeToolTip": "e_Book\\Models\\WaitingList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:18:51.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Global.asax.cs",
+              "RelativeDocumentMoniker": "e_Book\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Global.asax.cs",
+              "RelativeToolTip": "e_Book\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:09:56.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\favicon.ico",
+              "RelativeDocumentMoniker": "e_Book\\favicon.ico",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "e_Book\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-09T11:09:55.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "e_Book\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:09:50.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Web.config",
+              "RelativeDocumentMoniker": "e_Book\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\SHIR\\Desktop\\libraryservice\\e_Book\\Views\\Web.config",
+              "RelativeToolTip": "e_Book\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T11:09:42.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
